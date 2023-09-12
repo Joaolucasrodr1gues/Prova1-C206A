@@ -1,5 +1,6 @@
 public class HardwareBasico {
     String nome;
-    float capacidade;
+    float capacidadeHD;
+    float capacidadeRAM;
 
 }
